@@ -16,12 +16,11 @@ Theyyam is a popular ritualistic dance form in Kerala, characterized by vibrant 
 ## Installation 💻
 
 1. Clone the repository: `git clone <repository-url>`
-2. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage 📋
 
 1. Prepare images or video streams containing Theyyam performances.
-2. Run the detection script: `python detect.py <input-file>`
+2. Run the detection script: `Google Colab - .ipynb file`
 3. View the detected Theyyam types and corresponding details.
 
 ## Contributing 🤝
