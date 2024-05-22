@@ -15,7 +15,7 @@ Theyyam is a popular ritualistic dance form in Kerala, characterized by vibrant 
 
 ## Installation 💻
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/ArkTrek/Theyyam-Detection-System.git`
 
 ## Usage 📋
 
